@@ -9,11 +9,8 @@ import org.slf4j.LoggerFactory;
 import java.net.InetSocketAddress;
 
 /**
- * Created by IntelliJ IDEA.
- * User: vanja
- * Date: 12/26/11
- * Time: 17:31
- * To change this template use File | Settings | File Templates.
+ * @author Vanja Komadinovic
+ * @author vanjakom@gmail.com
  */
 public class MainClass {
     protected static Logger logger = LoggerFactory.getLogger(MainClass.class);
